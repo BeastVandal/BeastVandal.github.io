@@ -19,9 +19,12 @@
     background-color: #555;
     color: wheat;
     border-radius: 0.2rem;
+    /* padding: 1rem; */
+    margin: 0 0.3rem;
+    /* font-size: large; */
 
 }
 .navBar a:active{
     background-color: lightgrey;
-    
+    color: white;
 }
