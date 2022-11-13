@@ -1,0 +1,27 @@
+.body{
+    background-color: cyan;
+}
+.navBar{
+    background-color: azure;
+    border-radius: 0.5rem;
+}
+.navList{
+    list-style-type: none;
+    border-radius: 0.5rem;
+    padding: 0;
+}
+.navList a{
+    display: block;
+    text-decoration: none;
+    padding: 0.25rem 1rem;
+}
+.navList a:hover{
+    background-color: #555;
+    color: wheat;
+    border-radius: 0.2rem;
+
+}
+.navBar a:active{
+    background-color: lightgrey;
+    
+}
